@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ![react](https://img.shields.io/badge/-React-555.svg?logo=react&style=plastic)
 ![aws](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=plastic)
 ![docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=plastic)
-![github-actions](https://img.shields.io/badge/--.svg?logo=&style=plastic)
-![terraform](https://img.shields.io/badge/--.svg?logo=&style=plastic)
+![github-actions](https://img.shields.io/badge/-GitHubActions-2088FF.svg?logo=githubactions&style=plastic)
+![terraform](https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=terraform&style=plastic)
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=ShintaroaSuzuki&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
 ![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShintaroaSuzuki&theme=dark&exclude_repo=settings)
