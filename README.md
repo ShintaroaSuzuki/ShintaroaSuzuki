@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 ![github-actions](https://img.shields.io/badge/-GitHubActions-2088FF.svg?logo=githubactions&style=plastic)
 ![terraform](https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=terraform&style=plastic)
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=ShintaroaSuzuki&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
 ![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShintaroaSuzuki&theme=dark&exclude_repo=settings)
